@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj": {}
+    "C:\\Programming\\Assesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\DevAssesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj": {
+    "C:\\Programming\\Assesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\DevAssesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj",
+        "projectUniqueName": "C:\\Programming\\Assesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj",
         "projectName": "GameOfLife",
-        "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj",
+        "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\GameOfLife\\obj\\",
+        "outputPath": "C:\\Programming\\Assesments\\OzowAssessment\\GameOfLife\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj": {
+    "C:\\Programming\\Assesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj",
+        "projectUniqueName": "C:\\Programming\\Assesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj",
         "projectName": "SortText.Test",
-        "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj",
+        "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText,Test\\obj\\",
+        "outputPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText,Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -87,11 +87,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Programming\\DevAssesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj": {
-                "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj"
+              "C:\\Programming\\Assesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj": {
+                "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj"
               },
-              "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj": {
-                "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj"
+              "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj": {
+                "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj"
               }
             }
           }
@@ -145,14 +145,14 @@
         }
       }
     },
-    "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj": {
+    "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj",
+        "projectUniqueName": "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj",
         "projectName": "SortText",
-        "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj",
+        "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\obj\\",
+        "outputPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

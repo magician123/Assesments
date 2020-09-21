@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText.UI\\SortText.UI.csproj": {}
+    "C:\\Programming\\Assesments\\OzowAssessment\\SortText.UI\\SortText.UI.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText.UI\\SortText.UI.csproj": {
+    "C:\\Programming\\Assesments\\OzowAssessment\\SortText.UI\\SortText.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText.UI\\SortText.UI.csproj",
+        "projectUniqueName": "C:\\Programming\\Assesments\\OzowAssessment\\SortText.UI\\SortText.UI.csproj",
         "projectName": "SortText.UI",
-        "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText.UI\\SortText.UI.csproj",
+        "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText.UI\\SortText.UI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText.UI\\obj\\",
+        "outputPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj": {
-                "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj"
+              "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj": {
+                "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj": {
+    "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj",
+        "projectUniqueName": "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj",
         "projectName": "SortText",
-        "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj",
+        "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\obj\\",
+        "outputPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

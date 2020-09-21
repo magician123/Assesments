@@ -6221,11 +6221,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj",
+      "projectUniqueName": "C:\\Programming\\Assesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj",
       "projectName": "SortText.Test",
-      "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj",
+      "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText,Test\\SortText.Test.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText,Test\\obj\\",
+      "outputPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText,Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6245,11 +6245,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Programming\\DevAssesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj": {
-              "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj"
+            "C:\\Programming\\Assesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj": {
+              "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj"
             },
-            "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj": {
-              "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText\\SortText.csproj"
+            "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj": {
+              "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\SortText\\SortText.csproj"
             }
           }
         }

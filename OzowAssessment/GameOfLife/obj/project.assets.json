@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programming\\DevAssesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj",
+      "projectUniqueName": "C:\\Programming\\Assesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj",
       "projectName": "GameOfLife",
-      "projectPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj",
+      "projectPath": "C:\\Programming\\Assesments\\OzowAssessment\\GameOfLife\\GameOfLife.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Programming\\DevAssesments\\OzowAssessment\\GameOfLife\\obj\\",
+      "outputPath": "C:\\Programming\\Assesments\\OzowAssessment\\GameOfLife\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
