@@ -1,0 +1,17 @@
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\obj\Debug\netcoreapp3.1\GameOfLife.UI.csprojAssemblyReference.cache
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\obj\Debug\netcoreapp3.1\GameOfLife.UI.AssemblyInfoInputs.cache
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\obj\Debug\netcoreapp3.1\GameOfLife.UI.AssemblyInfo.cs
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\bin\Debug\netcoreapp3.1\GameOfLife.UI.exe
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\bin\Debug\netcoreapp3.1\GameOfLife.UI.deps.json
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\bin\Debug\netcoreapp3.1\GameOfLife.UI.runtimeconfig.json
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\bin\Debug\netcoreapp3.1\GameOfLife.UI.runtimeconfig.dev.json
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\bin\Debug\netcoreapp3.1\GameOfLife.UI.dll
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\bin\Debug\netcoreapp3.1\GameOfLife.UI.pdb
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\obj\Debug\netcoreapp3.1\GameOfLife.UI.dll
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\obj\Debug\netcoreapp3.1\GameOfLife.UI.pdb
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\obj\Debug\netcoreapp3.1\GameOfLife.UI.genruntimeconfig.cache
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\bin\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\bin\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\obj\Debug\netcoreapp3.1\GameOfLife.UI.csproj.CopyComplete
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife.UI\obj\Debug\netcoreapp3.1\GameOfLife.UI.csproj.CoreCompileInputs.cache

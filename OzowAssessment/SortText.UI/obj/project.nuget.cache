@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ODLkTcJZMxpxIAKR8KjpRvjhQCJ7ocaii1UXQPVwX1CDq+E8CeGxUH34P6tYxsi2HxaJI1JD7V4eDFRrvGc1UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\DevAssesments\\OzowAssessment\\SortText.UI\\SortText.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

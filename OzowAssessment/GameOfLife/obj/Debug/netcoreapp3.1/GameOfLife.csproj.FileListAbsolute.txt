@@ -1,0 +1,9 @@
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.deps.json
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife\bin\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfoInputs.cache
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.AssemblyInfo.cs
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.dll
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.pdb
+C:\Programming\DevAssesments\OzowAssessment\GameOfLife\obj\Debug\netcoreapp3.1\GameOfLife.csprojAssemblyReference.cache

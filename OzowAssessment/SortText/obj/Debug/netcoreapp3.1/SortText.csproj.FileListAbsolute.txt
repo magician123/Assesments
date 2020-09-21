@@ -1,0 +1,9 @@
+C:\Programming\DevAssesments\OzowAssessment\SortText\bin\Debug\netcoreapp3.1\SortText.deps.json
+C:\Programming\DevAssesments\OzowAssessment\SortText\bin\Debug\netcoreapp3.1\SortText.dll
+C:\Programming\DevAssesments\OzowAssessment\SortText\bin\Debug\netcoreapp3.1\SortText.pdb
+C:\Programming\DevAssesments\OzowAssessment\SortText\obj\Debug\netcoreapp3.1\SortText.csprojAssemblyReference.cache
+C:\Programming\DevAssesments\OzowAssessment\SortText\obj\Debug\netcoreapp3.1\SortText.AssemblyInfoInputs.cache
+C:\Programming\DevAssesments\OzowAssessment\SortText\obj\Debug\netcoreapp3.1\SortText.AssemblyInfo.cs
+C:\Programming\DevAssesments\OzowAssessment\SortText\obj\Debug\netcoreapp3.1\SortText.csproj.CoreCompileInputs.cache
+C:\Programming\DevAssesments\OzowAssessment\SortText\obj\Debug\netcoreapp3.1\SortText.dll
+C:\Programming\DevAssesments\OzowAssessment\SortText\obj\Debug\netcoreapp3.1\SortText.pdb

@@ -1,0 +1,17 @@
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\bin\Debug\netcoreapp3.1\SortText.UI.exe
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\bin\Debug\netcoreapp3.1\SortText.UI.deps.json
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\bin\Debug\netcoreapp3.1\SortText.UI.runtimeconfig.json
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\bin\Debug\netcoreapp3.1\SortText.UI.runtimeconfig.dev.json
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\bin\Debug\netcoreapp3.1\SortText.UI.dll
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\bin\Debug\netcoreapp3.1\SortText.UI.pdb
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\bin\Debug\netcoreapp3.1\SortText.dll
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\bin\Debug\netcoreapp3.1\SortText.pdb
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\obj\Debug\netcoreapp3.1\SortText.UI.csprojAssemblyReference.cache
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\obj\Debug\netcoreapp3.1\SortText.UI.AssemblyInfoInputs.cache
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\obj\Debug\netcoreapp3.1\SortText.UI.AssemblyInfo.cs
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\obj\Debug\netcoreapp3.1\SortText.UI.csproj.CopyComplete
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\obj\Debug\netcoreapp3.1\SortText.UI.dll
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\obj\Debug\netcoreapp3.1\SortText.UI.pdb
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\obj\Debug\netcoreapp3.1\SortText.UI.genruntimeconfig.cache
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Programming\DevAssesments\OzowAssessment\SortText.UI\obj\Debug\netcoreapp3.1\SortText.UI.csproj.CoreCompileInputs.cache
