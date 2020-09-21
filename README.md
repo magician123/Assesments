@@ -1,6 +1,7 @@
 # Assesments
 
-**Ozow Assement**\n
+**Ozow Assement**
+
 Question 1:
  
  - Clone the repo
